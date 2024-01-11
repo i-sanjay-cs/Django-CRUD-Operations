@@ -1,5 +1,5 @@
 django
-Jinja2==2.11.3
+Jinja2==3.1.3
 Pillow==9.0.0
 python-decouple
 pytz
